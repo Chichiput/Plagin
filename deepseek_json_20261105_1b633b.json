@@ -1,0 +1,7 @@
+{
+  "name": "tokens-architect-exporter",
+  "id": "tokens-architect-exporter-local",
+  "main": "./code.js",
+  "ui": "./ui.html",
+  "editorType": ["pixso"]
+}
